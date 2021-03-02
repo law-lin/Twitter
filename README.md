@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Twitter Part 1 GIF](twitterpart1.gif)
+![Twitter Part 1 GIF](twitterpart1.gif)
